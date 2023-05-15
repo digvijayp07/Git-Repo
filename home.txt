@@ -1,2 +1,2 @@
-this is version 3 of my file
+this is version 3 of my file in github
 git init
